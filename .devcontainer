@@ -1,0 +1,10 @@
+{
+    "name": "Dev Environment",
+    "dockerComposeFile": "../docker-compose.yml",
+    "service": "dev-environment",
+    "workspaceFolder": "/app",
+    "extensions": [
+        "golang.go",
+        "dbaeumer.vscode-eslint"
+    ]
+}
